@@ -1,9 +1,10 @@
 // ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
 
 import 'package:flutter/material.dart';
-import 'package:flutter_app_3/Screens/login_screen.dart';
-import 'package:flutter_app_3/Screens/signup_screen.dart';
-import 'package:flutter_app_3/Screens/welcome.dart';
+import 'package:flutter_final_project_level1/Screens/login_screen.dart';
+import 'package:flutter_final_project_level1/Screens/signup_screen.dart';
+import 'package:flutter_final_project_level1/Screens/welcome.dart';
+
 
 void main() {
   runApp(const MyApp());
